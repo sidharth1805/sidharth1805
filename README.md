@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 **Skills** : 
 - ✨Apache Spark                               
-- <img src="https://img.icons8.com/color/1x/python.png"  width="18" height="18">Python
-- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/1x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"  width="18" height="18">SQL
-- 🛠 Data Pipelines
+- <img src="https://img.icons8.com/color/1x/python.png"  width="18" height="18"> Python
+- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/1x/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"  width="18" height="18"> SQL
+- 🛠Data Pipelines
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUwtpCgMK2tp_o0zcHBuS73RQUrQLAsgWncS7im1H629Cr78SH30Yq-N3YGDwvEI_c8Sg&usqp=CAU"  width="18" height="18"> Apache Airflow
-- <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"  width="18" height="18">DBT
+- <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"  width="18" height="18"> DBT
 - <img src="https://img.icons8.com/color/1x/google-cloud-platform.png"  width="18" height="18"> GCP
 
 **Hobbies** : 
