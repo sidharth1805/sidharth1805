@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - <img src="https://img.icons8.com/color/1x/google-cloud-platform.png"  width="18" height="18"> GCP
 
 **Hobbies** : 
-- 🏏Cricket &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎥Movies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✍️Blogs &nbsp;&nbsp;&nbsp;
+- 🏏Cricket &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- 🎥Movies
+- ✍️Blogs
 
 ![Sidharth GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth1805&count_private=true&show_icons=true&theme=nightowl)
 
@@ -37,6 +39,10 @@ Connect with me:
 <p align='left'>
     <a href="https://www.linkedin.com/in/sidharth-ramalingam/">
     <img width="30px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    </a>
+</p>
+<p align='left'>
+    <a href="https://medium.com/@sidharth.ramalingam">
+    <img width="40px" alt="Medium" src="https://user-images.githubusercontent.com/53184702/219987931-5e650abb-558a-4f7c-a272-42d329e7d9cb.png" />
     </a> 
 </p>
-
