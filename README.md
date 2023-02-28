@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎥Movies
 - ✍️Blogs
 
-![Sidharth GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth1805&count_private=true&show_icons=true&cache_seconds=20&theme=nightowl)
+![Sidharth GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharth1805&count_private=true&show_icons=true&cache_seconds=2&theme=nightowl)
 
 Connect with me:  
 
